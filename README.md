@@ -1,16 +1,18 @@
 ## Your Name
-
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what exictes you about tech.
+I'm a Philosophy graduate come Tea Sommelier who is excited about life and solving problems. After serveral rewarding years working in the charity sector I have decided to take the leap into the tech industry. To me, the tech industry offers an innovative, creative and collaborative working environment. The impact of technology can make a real difference in so many lives, I would love to contribute ...
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
+Learning a new skill (Tea Sommelier)
+Organisation (St John)
+Team work (the body shop)
+Analysis (philosophy grad)
 
 #### This Skill
 
-- Experience
-- Achievements
-- Evidence
+Tackling large, complex problems was the name of the game during my philosophy degree. Concepts that can be difficult to comprehend in their etirity are broken down into managable segments that can be worked on one at a time.  
+BA Hons 
+My dissertation was titled 'Does Consciousness Exist?' This topic pushed me to address the question from multiple angles, such as diagrams, analgous stories, metaphors and through empirical evidence. By addressing the problem through various mediums I was able to grasp the overarching concepts and understand the intricate details. 
 
 #### Another Skill
 
@@ -24,6 +26,8 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 ## Education
 
 #### Makers Academy (start_date to end_date)
+
+Makers is ... 
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
