@@ -66,9 +66,9 @@ Managing many moving parts, prioritising. Pitching in, being flexible,
 
 ## <a name="If_I'm_not_coding_I'm...">If I'm not coding I'm...</a>
 
-Playing sweet and calming tunes on the piano\
-Giving new life to broken ceramics through Kintsugi\ 
-Finding my zen at tea ceremonies\
-Kombucha brewing with varying degrees of success\
-Board games, especially the strategic kind\ 
-Attempting to re-create mouth watering dishes from around the globe.
+* Playing sweet and calming tunes on the piano
+* Giving new life to broken ceramics through Kintsugi
+* Finding my zen at tea ceremonies
+* Kombucha brewing, with varying degrees of success
+* Board games, especially the strategic kind
+* Attempting to re-create mouth watering dishes from around the globe.
