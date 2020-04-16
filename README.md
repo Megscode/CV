@@ -2,7 +2,7 @@
 
 I'm a Tea Sommelier turned Software Developer who is excited about life and solving problems. After serveral rewarding years working in the charity sector and tea industry I have decided to take the leap into the tech industry. To me, the tech industry offers an innovative, creative and collaborative working environment where I can further my skills as a software developer and flex my problem solving muscle. The impact of technology can be immense and can make a real difference to so many people worldwide. I would love to be a part of a team that adds value to people through technology.  
 
-[What I'm all about](#What_I'm_all_about) | [Where I've studied](#Where_I've_studied) | [Who I've worked with](#Who_I've worked_with) | [If I'm not coding I'm...](#If_I'm_not_coding_I'm...)
+[What I'm all about](#What_I'm_all_about) | [Where I've studied](#Where_I've_studied) | [Who I've worked with](#Who_I've_worked_with) | [If I'm not coding I'm...](#If_I'm_not_coding_I'm...)
 
 ## <a name="What_I'm_all_about">What I'm all about</a>
 
@@ -24,7 +24,7 @@ Day to day our lives are improved by people solving problems behind the scenes. 
 
 Wanting to try new things and get stuck into a new task. 
 
-## <a name="Where I've studied">Where I've studied</a>
+## <a name="Where_I've_studied">Where I've studied</a>
 
 ### Makers Academy (Dec 2019 to Apr 2020)
 
@@ -45,7 +45,7 @@ Makers Academy is an intensive coding bootcamp aimed at career changers. During 
 
 Certified Tea Sommelier 
 
-## <a name="Who I've worked with">Who I've worked with</a>
+## <a name="Who_I've_worked_with">Who I've worked with</a>
 
 ### Freelance Tea Sommelier (July 18 to Dec 19)    
 
@@ -64,7 +64,7 @@ HOST UK is a small charity that promotes international friendship and understand
 
 Managing many moving parts, prioritising. Pitching in, being flexible,
 
-## <a name="If I'm not coding I'm...">If I'm not coding I'm...</a>
+## <a name="If_I'm_not_coding_I'm...">If I'm not coding I'm...</a>
 
 Playing sweet and calming tunes on the piano\
 Giving new life to broken ceramics through Kintsugi\ 
