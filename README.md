@@ -2,9 +2,9 @@
 
 I'm a Tea Sommelier turned Software Developer who is excited about life and solving problems. After serveral rewarding years working in the charity sector and tea industry I have decided to take the leap into the tech industry. To me, the tech industry offers an innovative, creative and collaborative working environment where I can further my skills as a software developer and flex my problem solving muscle. The impact of technology can be immense and can make a real difference to so many people worldwide. I would love to be a part of a team that adds value to people through technology.  
 
-[What I'm all about](#What I'm all about) | [Where I've studied](#Where I've studied) | [Who I've worked with](#Who I've worked with) | [If I'm not coding I'm...](#If I'm not coding I'm...)
+[What I'm all about](#What_I'm_all_about) | [Where I've studied](#Where_I've_studied) | [Who I've worked with](#Who_I've worked_with) | [If I'm not coding I'm...](#If_I'm_not_coding_I'm...)
 
-## <a name="What I'm all about">What I'm all about</a>
+## <a name="What_I'm_all_about">What I'm all about</a>
 
 
 ### I Support and Celebrate Others.
