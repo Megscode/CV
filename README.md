@@ -1,8 +1,8 @@
 ## Megan Hayes
 
-I'm a Tea Sommelier turned Software Developer who is excited about life and solving problems. After serveral rewarding years working in the charity sector and tea industry I have decided to take the leap into the tech industry. To me, the tech industry offers an innovative, creative and collaborative working environment where I can further my skills as a software developer and flex my problem solving muscle. The impact of technology can be immense and can make a real difference to so many people worldwide. I would love to be a part of a team that adds value to people through technology.  
+I'm a Tea Sommelier turned Software Developer who is excited about life and solving problems. After several rewarding years working in the charity sector and tea industry I have decided to take the leap into the tech industry. To me, the tech industry offers an innovative, creative and collaborative working environment where I can further my skills as a software developer and flex my problem solving muscle. The impact of technology can be immense and can make a real difference to so many people worldwide. I would love to be a part of a team that adds value to people through technology.  
 
-[What I'm all about](#What_I'm_all_about) | [Where I've studied](#Where_I've_studied) | [Who I've worked with](#Who_I've_worked_with) | [If I'm not coding I'm...](#If_I'm_not_coding_I'm...)
+[What I'm all about](#What_I'm_all_about) | [Where I've studied](#Where_I've_studied) | [Blog Posts I'm Proud of](#Blog_Posts_I'm_Proud_of) | [Who I've worked with](#Who_I've_worked_with) | [If I'm not coding I'm...](#If_I'm_not_coding_I'm...)
 
 ## <a name="What_I'm_all_about">What I'm all about</a>
 
@@ -43,7 +43,15 @@ Makers Academy is an intensive coding bootcamp aimed at career changers. During 
 
 ### UK Tea Academy
 
-Certified Tea Sommelier 
+- Certified Tea Sommelier 
+
+
+## <a name="Blog_Posts_I'm_Proud_of">Blog Posts I'm Proud of</a>
+
+[6 ways I managed my mental health whilst at Makers Academy](https://blog.makersacademy.com/6-ways-i-manage-my-mental-health-on-a-coding-boot-camp-944b07c63fda)
+
+[Understanding the Model, View and Controller Pattern Through the Medium of Art](https://blog.makersacademy.com/understanding-the-model-view-and-controller-pattern-through-the-medium-of-art-b5610b7e42ee)
+
 
 ## <a name="Who_I've_worked_with">Who I've worked with</a>
 
