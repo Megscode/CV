@@ -9,20 +9,20 @@ I'm a Tea Sommelier turned Software Developer who is excited about life and solv
 
 ### I Support and Celebrate Others.
 
-I beleive that the best teams are full of positive, empowering and empathetic people. Who you work with hugely influences your overall wellbeing at work. I strive to be a supportive, empowering, and positive team member who celebrates the successes of others and brings people together as a team. 
+I believe that the best teams are full of positive, empowering and empathetic people. Who you work with hugely influences your overall wellbeing at work. I strive to be a supportive, empowering, and positive team member who celebrates the successes of others and brings people together as a team. 
 
 ### I Understand and Communicate Complex Ideas. 
 
-My dissertation was titled 'Does Consciousness Exist?' To comprehend the concept of consciousness, I approached the concept from  multiple angles using analytical thinking, diagrams, analagous stories, metaphors, innovative questioning, effective reasoning and examination of empirical evidence. While I may never truly know if consciousness exists or not, I did learn how to communicate complex ideas logically and clearly.  
+My dissertation was titled 'Does Consciousness Exist?' To comprehend the concept of consciousness, I approached the concept from  multiple angles using analytical thinking, diagrams, analogous stories, metaphors, innovative questioning, effective reasoning and examination of empirical evidence. While I may never truly know if consciousness exists or not, I did learn how to communicate complex ideas logically and clearly.  
 
 ### I am Proactive and Independent. 
 
-Day to day our lives are improved by people solving problems behind the scenes. People who see a problem and instead of waiting for someone else to fix it, find a way to fix it themselves. I pride myself on being one of these people. That's why at my part-time job at The Body Shop during university I created an Ethics and Values training sylabus to inform and teach other employees. It's why I became a Pioneer member of the European Tea Society, who's mission it is to create and inspire excellence in the speciality tea community through innovation, research, education and communication. and it's why I volunteered Oxford Homeless Pathways where I ran a creative workshop. 
+Day to day our lives are improved by people solving problems behind the scenes. People who see a problem and instead of waiting for someone else to fix it, find a way to fix it themselves. I pride myself on being one of these people. That's why at my part-time job at The Body Shop during university I created an Ethics and Values training syllabus to inform and teach other employees. It's why I became a Pioneer member of the European Tea Society, whose mission it is to create and inspire excellence in the speciality tea community through innovation, research, education and communication. and it's why I volunteered at Oxford Homeless Pathways where I ran a creative workshop. 
 
 
 ### I am Enthusiastic and Inquisitive 
 
-Never one to shy away from new tasks and activities, I have always strived to expand my skillset and make the most out of my professional and personal life. 
+Never one to shy away from new tasks and activities, I have always strived to expand my skill set and make the most out of my professional and personal life. 
 
 ## <a name="Where_I've_studied">Where I've studied</a>
 
@@ -57,12 +57,12 @@ Makers Academy is an intensive coding bootcamp aimed at career changers. During 
 
 ### Freelance Tea Sommelier (July 18 to Dec 19)    
 
-I worked with The Chinese Tea Company, The European Tea Society, Mogok Tea and Good and Proper Tea. I supported and advised new tea companies during the initial set up of their businesses from one off meetings up to 3 months. I ran tea tastings, attended sales meetings, created content, performed tea analysis and feedback and managed tea shops. I remain on the European Tea Society's Marketing, Events, Education and Membership Comittees. 
+I worked with The Chinese Tea Company, The European Tea Society, Mogok Tea and Good and Proper Tea. I supported and advised new tea companies during the initial set up of their businesses from one off meetings up to 3 months. I ran tea tastings, attended sales meetings, created content, performed tea analysis and feedback and managed tea shops. I remain on the European Tea Society's Marketing, Events, Education and Membership Committees. 
 
 
 ### St John Ambulance, Rostering Coordinator (Feb 17 to May 18)
 
-At my core, I'm a planner. I like to map out how I am going to achieve something, how long it is going to take and what resources I'm going to need. At St John Ambulance I scheduled the diaries of 50 trainers and all of the London First Aid Courses. Logistics and attention to detail were crucial to the organisation's success and aspects of the position that I got a real buzz from. This job was fast paced and highly pressured, this lead to developing my innovative problem solving skills.
+At my core, I'm a planner. I like to map out how I am going to achieve something, how long it is going to take and what resources I'm going to need. At St John Ambulance I scheduled the diaries of 50 trainers and all of the London First Aid Courses. Logistics and attention to detail were crucial to the organisation's success and aspects of the position that I got a real buzz from. This job was fast paced and highly pressured, this led to developing my innovative problem solving skills.
 
 
 ### HOST UK, Programme and Volunteer Coordinator (Jun 16 to Feb 17)   
@@ -76,4 +76,4 @@ HOST UK is a small charity that promotes international friendship and understand
 * Finding my zen at tea ceremonies
 * Kombucha brewing, with varying degrees of success
 * Trying not to lose at board games
-* Attempting to re-create mouth watering dishes from around the globe.
+* Attempting to recreate mouth watering dishes from around the globe.
