@@ -22,13 +22,13 @@ Day to day our lives are improved by people solving problems behind the scenes. 
 
 ### I am Enthusiastic and Inquisitive 
 
-Wanting to try new things and get stuck into a new task. 
+Never one to shy away from new tasks and activities, I have always strived to expand my skillset and make the most out of my professional and personal life. 
 
 ## <a name="Where_I've_studied">Where I've studied</a>
 
 ### Makers Academy (Dec 2019 to Apr 2020)
 
-Makers Academy is an intensive coding bootcamp aimed at career changers. During the course we applied Agile Software Development methods and Pair Programming on a daily basis, which increased improvement in learning and prepared me to enter the tech industry.  
+Makers Academy is an intensive coding bootcamp aimed at career changers. During the course I applied Agile Software Development methods and Pair Programming on a daily basis, which increased my pace of learning and prepared me to enter the tech industry. Dedicating four months solely to coding was a life-changing experience, during this time I solidified my tech orientated values to produce high quality, tested and maintainable code. 
 
 - OOP, TDD, MVC, DDD
 - Agile, Pair Programming.
@@ -62,21 +62,18 @@ I worked with The Chinese Tea Company, The European Tea Society, Mogok Tea and G
 
 ### St John Ambulance, Rostering Coordinator (Feb 17 to May 18)
 
-I coordinated the St John Ambulance course schedule and 50 St John Amulance trainers. Adapability due to last minute changes. Organisation and Planning and innovative problem solving.
-At my core, I'm a planner. I like to map out how I am going to achieve something, how long it is going to take and what resources I'm going to need. At St John Ambulance I scheduled the diaries of 50 trainers and all of the London First Aid Courses without a single cancellation despite high employee absense rates.  
+At my core, I'm a planner. I like to map out how I am going to achieve something, how long it is going to take and what resources I'm going to need. At St John Ambulance I scheduled the diaries of 50 trainers and all of the London First Aid Courses. Logistics and attention to detail were crucial to the organisation's success and aspects of the position that I got a real buzz from. This job was fast paced and highly pressured, this lead to developing my innovative problem solving skills.
 
 
 ### HOST UK, Programme and Volunteer Coordinator (Jun 16 to Feb 17)   
 
-HOST UK is a small charity that promotes international friendship and understanding by arranging for international students at British universities to meet UK residents in their homes.I organised 60 events in a 3 months period during my position at HOST UK 
-
-Managing many moving parts, prioritising. Pitching in, being flexible,
+HOST UK is a small charity that promotes international friendship and understanding by arranging for international students at British universities to meet UK residents in their homes. I managed the student's HOST UK experience from their initial booking enquiries to collecting feedback after their visit. I worked hands on with hundreds of volunteer hosts and volunteer regional organisers across the UK. I organised 60 events in a 3 months period and line-managed the administrators at our head office.
 
 ## <a name="If_I'm_not_coding_I'm...">If I'm not coding I'm...</a>
 
-* Playing sweet and calming tunes on the piano
+* Playing jazzy tunes on the piano
 * Giving new life to broken ceramics through Kintsugi
 * Finding my zen at tea ceremonies
 * Kombucha brewing, with varying degrees of success
-* Board games, especially the strategic kind
+* Trying not to lose at board games
 * Attempting to re-create mouth watering dishes from around the globe.
