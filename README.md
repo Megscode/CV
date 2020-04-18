@@ -30,9 +30,9 @@ Never one to shy away from new tasks and activities, I have always strived to ex
 
 Makers Academy is an intensive coding bootcamp aimed at career changers. During the course I applied Agile Software Development methods and Pair Programming on a daily basis, which increased my pace of learning and prepared me to enter the tech industry. Dedicating four months solely to coding was a life-changing experience, and during this time I solidified my tech orientated values to produce high quality, tested, and maintainable code. 
 
-- I discovered my love for standups and retros during the [Makers Bnb project.](https://github.com/Megscode/MakersBnB)\
-- My eyes were opened to all the ways you could test code during the [Acebook group project.](https://github.com/Megscode/acebook_undefined)\
-- See [this tech test](https://github.com/Megscode/bank_test) for an example of object orientated design and test driven development. \
+- I discovered my love for standups and retros during the [Makers Bnb project.](https://github.com/Megscode/MakersBnB)
+- My eyes were opened to all the ways you could test code during the [Acebook group project.](https://github.com/Megscode/acebook_undefined)
+- See [this tech test](https://github.com/Megscode/bank_test) for an example of object orientated design and test driven development. 
 - The dreaded [final project](https://github.com/Megscode/Wanderlist) turned out to be a wonderful time with wonderful people.
 
 It would be impossible to quantify everything I learnt at Makers Academy. The list below sets out the technolgies I learnt, but alongside those I developed a framework for taking on new challenges, a toolkit for learning new languages and the emotional intelligence to become a valued member of a team.
