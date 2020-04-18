@@ -1,6 +1,6 @@
 ## Megan Hayes
 
-I'm a Tea Sommelier turned Software Developer who is excited about life and solving problems. After several rewarding years working in the charity sector and tea industry I have decided to take the leap into the tech industry. To me, the tech industry offers an innovative, creative and collaborative working environment where I can further my skills as a software developer and flex my problem solving muscle. The impact of technology can be immense and can make a real difference to so many people worldwide. I would love to be a part of a team that adds value to people through technology.  
+I'm a Tea Sommelier turned Software Developer who is excited about life and solving problems. After several rewarding years working in the charity sector and tea industry I have decided to take the leap into tech. To me, the tech industry offers an innovative, creative and collaborative working environment where I can further my skills as a software developer and flex my problem solving muscle. The impact of technology can be immense and can make a real difference to so many people worldwide. I would love to be a part of a team that adds value to people's lives through technology.  
 
 [What I'm all about](#What_I'm_all_about) | [Where I've studied](#Where_I've_studied) | [Blog Posts I'm Proud of](#Blog_Posts_I'm_Proud_of) | [Who I've worked with](#Who_I've_worked_with) | [If I'm not coding I'm...](#If_I'm_not_coding_I'm...)
 
@@ -13,11 +13,11 @@ I believe that the best teams are full of positive, empowering and empathetic pe
 
 ### I Understand and Communicate Complex Ideas. 
 
-My dissertation was titled 'Does Consciousness Exist?' To comprehend the concept of consciousness, I approached the concept from  multiple angles using analytical thinking, diagrams, analogous stories, metaphors, innovative questioning, effective reasoning and examination of empirical evidence. While I may never truly know if consciousness exists or not, I did learn how to communicate complex ideas logically and clearly.  
+My dissertation was titled 'Does Consciousness Exist?'. To comprehend the concept of consciousness, I approached the concept from  multiple angles using analytical thinking, diagrams, analogous stories, metaphors, innovative questioning, effective reasoning, and examination of empirical evidence. While I may never truly know if consciousness exists or not, I did learn how to communicate complex ideas logically and clearly.  
 
 ### I am Proactive and Independent. 
 
-Day to day our lives are improved by people solving problems behind the scenes. People who see a problem and instead of waiting for someone else to fix it, find a way to fix it themselves. I pride myself on being one of these people. That's why at my part-time job at The Body Shop during university I created an Ethics and Values training syllabus to inform and teach other employees. It's why I became a Pioneer member of the European Tea Society, whose mission it is to create and inspire excellence in the speciality tea community through innovation, research, education and communication. and it's why I volunteered at Oxford Homeless Pathways where I ran a creative workshop. 
+Day to day our lives are improved by people solving problems behind the scenes. These people see a problem, and instead of waiting for someone else to fix it, find a way to fix it themselves. I pride myself on being one of these people. That's why at my part-time job at The Body Shop during university I created an Ethics and Values training syllabus to inform and teach other employees. It's why I became a Pioneer member of the European Tea Society, whose mission it is to create and inspire excellence in the speciality tea community through innovation, research, education and communication. And it's why I volunteered at Oxford Homeless Pathways where I ran a creative workshop. 
 
 
 ### I am Enthusiastic and Inquisitive 
@@ -28,17 +28,24 @@ Never one to shy away from new tasks and activities, I have always strived to ex
 
 ### Makers Academy (Dec 2019 to Apr 2020)
 
-Makers Academy is an intensive coding bootcamp aimed at career changers. During the course I applied Agile Software Development methods and Pair Programming on a daily basis, which increased my pace of learning and prepared me to enter the tech industry. Dedicating four months solely to coding was a life-changing experience, during this time I solidified my tech orientated values to produce high quality, tested and maintainable code. 
+Makers Academy is an intensive coding bootcamp aimed at career changers. During the course I applied Agile Software Development methods and Pair Programming on a daily basis, which increased my pace of learning and prepared me to enter the tech industry. Dedicating four months solely to coding was a life-changing experience, and during this time I solidified my tech orientated values to produce high quality, tested, and maintainable code. 
+
+I discovered my love for standups and retros during the [Makers Bnb project](https://github.com/Megscode/MakersBnB)
+My eyes were opened to all the ways you could test code during the [Acebook group project](https://github.com/Megscode/acebook_undefined)
+See [this tech test](https://github.com/Megscode/bank_test) for an example of object orientated design and test driven development. 
+The dreaded [final project] turned out to be a wonderful time with wonderful people(https://github.com/Megscode/Wanderlist)
+
+It would be impossible to quantify everything I learnt at Makers Academy. The list below sets out the technolgies I learnt, but alongside those I developed a framework for taking on new challenges, a toolkit for learning new languages and the emotional intelligence to become a valued member of a team.
 
 - OOP, TDD, MVC, DDD
 - Agile, Pair Programming.
-- Ruby, Rails, JavaScript
+- Ruby, Rails, JavaScript, CSS, API, Bootstrap
 - RSpec, Jasmine
+- SQL
 
 ### Oxford Brookes University (2011 to 2015)
 
-- Philosophy BA Hons 
-- 2:1 
+- Philosophy BA Hons, 2:1 
 - Plus 1 year of Music BA Hons
 
 ### UK Tea Academy
@@ -57,7 +64,7 @@ Makers Academy is an intensive coding bootcamp aimed at career changers. During 
 
 ### Freelance Tea Sommelier (July 18 to Dec 19)    
 
-I worked with The Chinese Tea Company, The European Tea Society, Mogok Tea and Good and Proper Tea. I supported and advised new tea companies during the initial set up of their businesses from one off meetings up to 3 months. I ran tea tastings, attended sales meetings, created content, performed tea analysis and feedback and managed tea shops. I remain on the European Tea Society's Marketing, Events, Education and Membership Committees. 
+I worked with The Chinese Tea Company, The European Tea Society, Mogok Tea and Good and Proper Tea. I supported and advised new tea companies during the initial set up of their businesses from one off meetings up to 3 months. I ran tea tastings, attended sales meetings, created content, performed tea analysis and feedback and managed tea shops. I remain on the European Tea Society's Marketing, Events, Education, and Membership Committees. 
 
 
 ### St John Ambulance, Rostering Coordinator (Feb 17 to May 18)
