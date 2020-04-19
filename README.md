@@ -1,6 +1,6 @@
 ## Megan Hayes
 
-I'm a Tea Sommelier turned Software Developer who is excited about life and solving problems. After several rewarding years working in the charity sector and tea industry I have decided to take the leap into tech. To me, the tech industry offers an innovative, creative and collaborative working environment where I can further my skills as a software developer and flex my problem solving muscle. The impact of technology can be immense and can make a real difference to so many people worldwide. I would love to be a part of a team that adds value to people's lives through technology.  
+I'm an Tea Sommelier turned Software Developer who is excited about life and solving problems. After several rewarding years working in the charity sector and tea industry I have decided to take the leap into tech. To me, the tech industry offers an innovative, creative and collaborative working environment where I can further my skills as a software developer and flex my problem solving muscle. The impact of technology can be immense and can make a real difference to so many people worldwide. I would love to be a part of a team that adds value to people's lives through technology.  
 
 [What I'm all about](#What_I'm_all_about) | [Where I've studied](#Where_I've_studied) | [Blog Posts I'm Proud of](#Blog_Posts_I'm_Proud_of) | [Who I've worked with](#Who_I've_worked_with) | [If I'm not coding I'm...](#If_I'm_not_coding_I'm...)
 
@@ -22,7 +22,7 @@ Day to day our lives are improved by people solving problems behind the scenes. 
 
 ### I am Enthusiastic and Inquisitive 
 
-Never one to shy away from new tasks and activities, I have always strived to expand my skill set and make the most out of my professional and personal life. 
+Never one to shy away from new tasks and activities, I have always strived to expand my skill set and make the most out of my professional and personal life. Being inquisitive in my work and asking thoughtful questions has led to a deeper understanding of processes, customer needs, product requirements and workflow structure.
 
 ## <a name="Where_I've_studied">Where I've studied</a>
 
